@@ -47,3 +47,13 @@ git log
 	
 git log --oneline
 	- condensed version of the git log
+
+git clone 
+	- creating a copy of a remote repo on your local repo
+
+git push
+       - uploading files from local repo to remote repo
+
+git pull
+	- retrieving changes from a remote repo and merges them into your local repo
+
